@@ -1,5 +1,7 @@
 package org.example;
 
+// Sprint 13 Gün 1 çözümü
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
