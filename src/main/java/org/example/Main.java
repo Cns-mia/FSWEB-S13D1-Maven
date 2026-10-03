@@ -1,6 +1,6 @@
 package org.example;
 
-// Sprint 13 Gün 1 çözümü
+// Sprint 13 Gün 1 çözümü (Backend Programlamaya Giriş)
 
 public class Main {
     public static void main(String[] args) {
